@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "chef1.jpg",
+        "chef_name": "Kamal Hossain",
+        "years_of_experience": 10,
+        "number_of_recipes": 50,
+        "likes": 500,
+        "view_recipes_button": "https://example.com/chef1/recipes"
+    },
+    {
+        "id": 2,
+        "chef_picture": "chef2.jpg",
+        "chef_name": "Farida Rahman",
+        "years_of_experience": 8,
+        "number_of_recipes": 40,
+        "likes": 400,
+        "view_recipes_button": "https://example.com/chef2/recipes"
+    },
+    {
+        "id": 3,
+        "chef_picture": "chef3.jpg",
+        "chef_name": "Abdul Haque",
+        "years_of_experience": 15,
+        "number_of_recipes": 80,
+        "likes": 800,
+        "view_recipes_button": "https://example.com/chef3/recipes"
+    },
+    {
+        "id": 4,
+        "chef_picture": "chef4.jpg",
+        "chef_name": "Nazma Akter",
+        "years_of_experience": 5,
+        "number_of_recipes": 30,
+        "likes": 300,
+        "view_recipes_button": "https://example.com/chef4/recipes"
+    },
+    {
+        "id": 5,
+        "chef_picture": "chef5.jpg",
+        "chef_name": "Rahim Ahmed",
+        "years_of_experience": 12,
+        "number_of_recipes": 60,
+        "likes": 600,
+        "view_recipes_button": "https://example.com/chef5/recipes"
+    },
+    {
+        "id": 6,
+        "chef_picture": "chef6.jpg",
+        "chef_name": "Sadia Islam",
+        "years_of_experience": 7,
+        "number_of_recipes": 35,
+        "likes": 350,
+        "view_recipes_button": "https://example.com/chef6/recipes"
+    }
+]
