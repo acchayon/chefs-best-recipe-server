@@ -1,7 +1,11 @@
 [
     {   
         "id": 1,
-        "chef_name": "Tanjina",
+        "chef_name": "Ahmed Hossain",
+        "chef_picture": "https://i.ibb.co/QnSKx5p/chef1.jpg",
+        "years_of_experience": 10,
+        "number_of_recipes": 50,
+        "likes": 500,
         "recipe_1": {
             "id": "tanjina_recipe1",
             "image_url": "https://example.com/tanjina_recipe1.jpg",
@@ -23,7 +27,11 @@
     },
     {
         "id": 2,
-        "chef_name": "Mouna",
+        "chef_picture": "https://i.ibb.co/v3ZWJkw/chef2.jpg",
+        "chef_name": "Haji Fakruddin",
+        "years_of_experience": 8,
+        "number_of_recipes": 40,
+        "likes": 400,
         "recipe_1": {
            "id": "mouna_recipe1",
            "image_url": "https://example.com/mouna_recipe1.jpg",
@@ -45,7 +53,11 @@
      },
      {
         "id": 3,
-        "chef_name": "Nigella",
+        "chef_name": "Asad Latif",
+        "chef_picture": "https://i.ibb.co/D4mXhyF/chef3.jpg",
+        "years_of_experience": 15,
+        "number_of_recipes": 80,
+        "likes": 800,
         "recipe_1": {
            "id": "nigella_recipe1",
            "image_url": "https://example.com/nigella_recipe1.jpg",
@@ -67,7 +79,11 @@
      },
      {
         "id": 4,
-        "chef_name": "Mounas",
+        "chef_picture": "https://i.ibb.co/ZXx2R6N/chef4.jpg",
+        "chef_name": "Kiran Jethwa",
+        "years_of_experience": 5,
+        "number_of_recipes": 30,
+        "likes": 300,
         "recipe_1": {
            "id": "mounas_recipe1",
            "image_url": "https://example.com/mouna_recipe1.jpg",
@@ -89,7 +105,11 @@
      },
      {
         "id": 5,
-        "chef_name": "Mounas",
+        "chef_name": "Manik Miah",
+        "chef_picture": "https://i.ibb.co/PmfzVnB/chef5.jpg",
+        "years_of_experience": 12,
+        "number_of_recipes": 60,
+        "likes": 600,
         "recipe_1": {
            "id": "5_recipe1",
            "image_url": "https://example.com/mouna_recipe1.jpg",
@@ -111,7 +131,11 @@
      },
      {
         "id": 6,
-        "chef_name": "Mounas",
+        "chef_picture": "https://i.ibb.co/qsVpWfq/chef6.jpg",
+        "chef_name": "Mr. Feroze Khan",
+        "years_of_experience": 7,
+        "number_of_recipes": 35,
+        "likes": 350,
         "recipe_1": {
            "id": "6_recipe1",
            "image_url": "https://example.com/mouna_recipe1.jpg",
