@@ -5,8 +5,7 @@
         "chef_name": "Ahmed Hossain",
         "years_of_experience": 10,
         "number_of_recipes": 50,
-        "likes": 500,
-        "view_recipes_button": "https://example.com/chef1/recipes"
+        "likes": 500
     },
     {
         "id": 2,
@@ -14,8 +13,7 @@
         "chef_name": "Haji Fakruddin",
         "years_of_experience": 8,
         "number_of_recipes": 40,
-        "likes": 400,
-        "view_recipes_button": "https://example.com/chef2/recipes"
+        "likes": 400
     },
     {
         "id": 3,
@@ -23,8 +21,7 @@
         "chef_name": "Asad Latif",
         "years_of_experience": 15,
         "number_of_recipes": 80,
-        "likes": 800,
-        "view_recipes_button": "https://example.com/chef3/recipes"
+        "likes": 800
     },
     {
         "id": 4,
@@ -32,8 +29,7 @@
         "chef_name": "Kiran Jethwa",
         "years_of_experience": 5,
         "number_of_recipes": 30,
-        "likes": 300,
-        "view_recipes_button": "https://example.com/chef4/recipes"
+        "likes": 300
     },
     {
         "id": 5,
@@ -41,8 +37,7 @@
         "chef_name": "Manik Miah",
         "years_of_experience": 12,
         "number_of_recipes": 60,
-        "likes": 600,
-        "view_recipes_button": "https://example.com/chef5/recipes"
+        "likes": 600
     },
     {
         "id": 6,
@@ -50,7 +45,6 @@
         "chef_name": "Mr. Feroze Khan",
         "years_of_experience": 7,
         "number_of_recipes": 35,
-        "likes": 350,
-        "view_recipes_button": "https://example.com/chef6/recipes"
+        "likes": 350
     }
 ]

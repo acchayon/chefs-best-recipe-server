@@ -1,0 +1,136 @@
+[
+    {   
+        "id": 1,
+        "chef_name": "Tanjina",
+        "recipe_1": {
+            "id": "tanjina_recipe1",
+            "image_url": "https://example.com/tanjina_recipe1.jpg",
+            "name": "Prawn Masala",
+            "description": "This flavorful prawn masala is made with a variety of spices and is perfect served over rice or with naan bread."
+        },
+        "recipe_2": {
+            "id": "tanjina_recipe2",
+            "image_url": "https://example.com/tanjina_recipe2.jpg",
+            "name": "Mixed Vegetable Curry",
+            "description": "This colorful and flavorful vegetable curry is perfect for vegetarians or anyone looking for a healthy meal option."
+        },
+        "recipe_3": {
+            "id": "tanjina_recipe3",
+            "image_url": "https://example.com/tanjina_recipe3.jpg",
+            "name": "Chicken Tikka Masala",
+            "description": "This colorful and flavorful vegetable curry is perfect for vegetarians or anyone looking for a healthy meal option."
+        }
+    },
+    {
+        "id": 2,
+        "chef_name": "Mouna",
+        "recipe_1": {
+           "id": "mouna_recipe1",
+           "image_url": "https://example.com/mouna_recipe1.jpg",
+           "name": "Spicy Masala Chicken",
+           "description": "This is a spicy and flavorful chicken dish that is perfect for a weeknight dinner. It's easy to make and can be served with rice or naan."
+        },
+        "recipe_2": {
+           "id": "mouna_recipe2",
+           "image_url": "https://example.com/mouna_recipe2.jpg",
+           "name": "Bengali Fish Curry",
+           "description": "This traditional Bengali fish curry is made with a spicy tomato-based sauce and is perfect served over rice."
+        },
+        "recipe_3": {
+           "id": "mouna_recipe3",
+           "image_url": "https://example.com/mouna_recipe3.jpg",
+           "name": "Shrimp Biryani",
+           "description": "This flavorful biryani is made with shrimp, rice, and a variety of spices. It's a great one-pot meal that's perfect for entertaining."
+        }
+     },
+     {
+        "id": 3,
+        "chef_name": "Nigella",
+        "recipe_1": {
+           "id": "nigella_recipe1",
+           "image_url": "https://example.com/nigella_recipe1.jpg",
+           "name": "Chicken Korma",
+           "description": "This creamy and flavorful chicken korma is a great comfort food. It's perfect served over rice or with naan bread."
+        },
+        "recipe_2": {
+           "id": "nigella_recipe2",
+           "image_url": "https://example.com/nigella_recipe2.jpg",
+           "name": "Mutton Rezala",
+           "description": "This traditional Bengali mutton dish is made with yogurt and a variety of spices. It's a great dish to serve for special occasions."
+        },
+        "recipe_3": {
+           "id": "nigella_recipe3",
+           "image_url": "https://example.com/nigella_recipe3.jpg",
+           "name": "Beef Bhuna",
+           "description": "This spicy beef dish is made with a variety of spices and is perfect served over rice or with naan bread."
+        }
+     },
+     {
+        "id": 4,
+        "chef_name": "Mounas",
+        "recipe_1": {
+           "id": "mounas_recipe1",
+           "image_url": "https://example.com/mouna_recipe1.jpg",
+           "name": "Spicy Masala Chicken",
+           "description": "This is a spicy and flavorful chicken dish that is perfect for a weeknight dinner. It's easy to make and can be served with rice or naan."
+        },
+        "recipe_2": {
+           "id": "mounas_recipe2",
+           "image_url": "https://example.com/mouna_recipe2.jpg",
+           "name": "Bengali Fish Curry",
+           "description": "This traditional Bengali fish curry is made with a spicy tomato-based sauce and is perfect served over rice."
+        },
+        "recipe_3": {
+           "id": "mounas_recipe3",
+           "image_url": "https://example.com/mouna_recipe3.jpg",
+           "name": "Shrimp Biryani",
+           "description": "This flavorful biryani is made with shrimp, rice, and a variety of spices. It's a great one-pot meal that's perfect for entertaining."
+        }
+     },
+     {
+        "id": 5,
+        "chef_name": "Mounas",
+        "recipe_1": {
+           "id": "5_recipe1",
+           "image_url": "https://example.com/mouna_recipe1.jpg",
+           "name": "Spicy Masala Chicken",
+           "description": "This is a spicy and flavorful chicken dish that is perfect for a weeknight dinner. It's easy to make and can be served with rice or naan."
+        },
+        "recipe_2": {
+           "id": "5_recipe2",
+           "image_url": "https://example.com/mouna_recipe2.jpg",
+           "name": "Bengali Fish Curry",
+           "description": "This traditional Bengali fish curry is made with a spicy tomato-based sauce and is perfect served over rice."
+        },
+        "recipe_3": {
+           "id": "5_recipe3",
+           "image_url": "https://example.com/mouna_recipe3.jpg",
+           "name": "Shrimp Biryani",
+           "description": "This flavorful biryani is made with shrimp, rice, and a variety of spices. It's a great one-pot meal that's perfect for entertaining."
+        }
+     },
+     {
+        "id": 6,
+        "chef_name": "Mounas",
+        "recipe_1": {
+           "id": "6_recipe1",
+           "image_url": "https://example.com/mouna_recipe1.jpg",
+           "name": "Spicy Masala Chicken",
+           "description": "This is a spicy and flavorful chicken dish that is perfect for a weeknight dinner. It's easy to make and can be served with rice or naan."
+        },
+        "recipe_2": {
+           "id": "6_recipe2",
+           "image_url": "https://example.com/mouna_recipe2.jpg",
+           "name": "Bengali Fish Curry",
+           "description": "This traditional Bengali fish curry is made with a spicy tomato-based sauce and is perfect served over rice."
+        },
+        "recipe_3": {
+           "id": "6_recipe3",
+           "image_url": "https://example.com/mouna_recipe3.jpg",
+           "name": "Shrimp Biryani",
+           "description": "This flavorful biryani is made with shrimp, rice, and a variety of spices. It's a great one-pot meal that's perfect for entertaining."
+        }
+     }
+
+          
+]
