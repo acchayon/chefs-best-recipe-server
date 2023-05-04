@@ -1,160 +1,98 @@
 [
-    {   
+    {
         "id": 1,
         "chef_name": "Ahmed Hossain",
         "chef_picture": "https://i.ibb.co/QnSKx5p/chef1.jpg",
         "years_of_experience": 10,
         "number_of_recipes": 50,
+        "description": "Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010.",
         "likes": 500,
+        "image_url": "https://i.ibb.co/rsqD8G1/food7.jpg",
+        "name": "Prawn Masala",
         "recipe_1": {
-            "id": "tanjina_recipe1",
-            "image_url": "https://example.com/tanjina_recipe1.jpg",
-            "name": "Prawn Masala",
+            "_id": 1,
             "description": "This flavorful prawn masala is made with a variety of spices and is perfect served over rice or with naan bread."
         },
-        "recipe_2": {
-            "id": "tanjina_recipe2",
-            "image_url": "https://example.com/tanjina_recipe2.jpg",
-            "name": "Mixed Vegetable Curry",
-            "description": "This colorful and flavorful vegetable curry is perfect for vegetarians or anyone looking for a healthy meal option."
-        },
-        "recipe_3": {
-            "id": "tanjina_recipe3",
-            "image_url": "https://example.com/tanjina_recipe3.jpg",
-            "name": "Chicken Tikka Masala",
-            "description": "This colorful and flavorful vegetable curry is perfect for vegetarians or anyone looking for a healthy meal option."
-        }
+        "ingredients": "The ingredients for Kacchi Biryani typically include Basmati rice, meat (usually lamb or beef), yogurt, onions, garlic, ginger, chili peppers, ghee (clarified butter), and a variety of spices such as cardamom, cinnamon, cloves, and bay leaves. The meat is marinated in yogurt and spices for several hours to tenderize it and infuse it with flavor"
     },
     {
         "id": 2,
         "chef_picture": "https://i.ibb.co/v3ZWJkw/chef2.jpg",
         "chef_name": "Haji Fakruddin",
-        "years_of_experience": 8,
+        "years_of_experience": 55,
         "number_of_recipes": 40,
+        "description": "Since 1966, Haji Fakruddin had challenged outrageous financial hardships since his move to Bangladesh. He amid a stretch to squeeze out a work, he was acquainted with Muslim Miah, a culinary specialist to the Nawabs of India.From Muslim Miah, Fakruddin figured out how to cook. It was short colleague which uncovered to Fakruddin his shrouded, characteristic style and outrageous enthusiasm for cooking. While working in the Viqarun Nisa, he earned a name for his pleasantness, mild-mannered and tender nature. Now he is among the top 10 chefs in Bangladesh.",
         "likes": 400,
+        "ingredients": "The ingredients for Kacchi Biryani typically include Basmati rice, meat (usually lamb or beef), yogurt, onions, garlic, ginger, chili peppers, ghee (clarified butter), and a variety of spices such as cardamom, cinnamon, cloves, and bay leaves. The meat is marinated in yogurt and spices for several hours to tenderize it and infuse it with flavor",
+        "image_url": "https://i.ibb.co/nsKM0BJ/food6.jpg",
+        "name": "Haji Biriyani",
         "recipe_1": {
-           "id": "mouna_recipe1",
-           "image_url": "https://example.com/mouna_recipe1.jpg",
-           "name": "Spicy Masala Chicken",
-           "description": "This is a spicy and flavorful chicken dish that is perfect for a weeknight dinner. It's easy to make and can be served with rice or naan."
-        },
-        "recipe_2": {
-           "id": "mouna_recipe2",
-           "image_url": "https://example.com/mouna_recipe2.jpg",
-           "name": "Bengali Fish Curry",
-           "description": "This traditional Bengali fish curry is made with a spicy tomato-based sauce and is perfect served over rice."
-        },
-        "recipe_3": {
-           "id": "mouna_recipe3",
-           "image_url": "https://example.com/mouna_recipe3.jpg",
-           "name": "Shrimp Biryani",
-           "description": "This flavorful biryani is made with shrimp, rice, and a variety of spices. It's a great one-pot meal that's perfect for entertaining."
+            "_id": 2,
+            "description": "This is a spicy and flavorful chicken dish that is perfect for a weeknight dinner. It's easy to make and can be served with rice or naan."
         }
-     },
-     {
+    },
+    {
         "id": 3,
         "chef_name": "Asad Latif",
         "chef_picture": "https://i.ibb.co/D4mXhyF/chef3.jpg",
         "years_of_experience": 15,
         "number_of_recipes": 80,
+        "description": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies.",
         "likes": 800,
+        "image_url": "https://i.ibb.co/7Kq0Wj7/Chicken-Korma-SQ.jpg",
+        "name": "Chicken Korma",
         "recipe_1": {
-           "id": "nigella_recipe1",
-           "image_url": "https://example.com/nigella_recipe1.jpg",
-           "name": "Chicken Korma",
-           "description": "This creamy and flavorful chicken korma is a great comfort food. It's perfect served over rice or with naan bread."
+            "_id": 3,
+            "description": "This creamy and flavorful chicken korma is a great comfort food. It's perfect served over rice or with naan bread."
         },
-        "recipe_2": {
-           "id": "nigella_recipe2",
-           "image_url": "https://example.com/nigella_recipe2.jpg",
-           "name": "Mutton Rezala",
-           "description": "This traditional Bengali mutton dish is made with yogurt and a variety of spices. It's a great dish to serve for special occasions."
-        },
-        "recipe_3": {
-           "id": "nigella_recipe3",
-           "image_url": "https://example.com/nigella_recipe3.jpg",
-           "name": "Beef Bhuna",
-           "description": "This spicy beef dish is made with a variety of spices and is perfect served over rice or with naan bread."
-        }
-     },
-     {
+        "ingredients": "The ingredients for Kacchi Biryani typically include Basmati rice, meat (usually lamb or beef), yogurt, onions, garlic, ginger, chili peppers, ghee (clarified butter), and a variety of spices such as cardamom, cinnamon, cloves, and bay leaves. The meat is marinated in yogurt and spices for several hours to tenderize it and infuse it with flavor"
+    },
+    {
         "id": 4,
         "chef_picture": "https://i.ibb.co/ZXx2R6N/chef4.jpg",
         "chef_name": "Kiran Jethwa",
         "years_of_experience": 5,
         "number_of_recipes": 30,
+        "description": "Kiran Jethwa also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. Kiran Jethwa, is a worldwide “gastronaut” and has crossed the world looking for gutsy and cooking styles and societies.From racing with falcons in Mongolia to Remote Ocean jumping for fish in Mozambique, Jethwa has encountered the perils and excites that individuals day by day professionally for culinary field.",
         "likes": 300,
+        "image_url": "https://i.ibb.co/pKTr287/download-1.jpg",
+        "name": "Spicy Masala Chicken",
         "recipe_1": {
-           "id": "mounas_recipe1",
-           "image_url": "https://example.com/mouna_recipe1.jpg",
-           "name": "Spicy Masala Chicken",
-           "description": "This is a spicy and flavorful chicken dish that is perfect for a weeknight dinner. It's easy to make and can be served with rice or naan."
+            "_id": 4,
+            "description": "This is a spicy and flavorful chicken dish that is perfect for a weeknight dinner. It's easy to make and can be served with rice or naan."
         },
-        "recipe_2": {
-           "id": "mounas_recipe2",
-           "image_url": "https://example.com/mouna_recipe2.jpg",
-           "name": "Bengali Fish Curry",
-           "description": "This traditional Bengali fish curry is made with a spicy tomato-based sauce and is perfect served over rice."
-        },
-        "recipe_3": {
-           "id": "mounas_recipe3",
-           "image_url": "https://example.com/mouna_recipe3.jpg",
-           "name": "Shrimp Biryani",
-           "description": "This flavorful biryani is made with shrimp, rice, and a variety of spices. It's a great one-pot meal that's perfect for entertaining."
-        }
-     },
-     {
+        "ingredients": "The ingredients for Kacchi Biryani typically include Basmati rice, meat (usually lamb or beef), yogurt, onions, garlic, ginger, chili peppers, ghee (clarified butter), and a variety of spices such as cardamom, cinnamon, cloves, and bay leaves. The meat is marinated in yogurt and spices for several hours to tenderize it and infuse it with flavor"
+    },
+    {
         "id": 5,
         "chef_name": "Manik Miah",
         "chef_picture": "https://i.ibb.co/PmfzVnB/chef5.jpg",
         "years_of_experience": 12,
         "number_of_recipes": 60,
+        "description": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.",
         "likes": 600,
+        "image_url": "https://i.ibb.co/CKN2VT5/download-2.jpg",
+        "name": "Mutton Rogan josh",
         "recipe_1": {
-           "id": "5_recipe1",
-           "image_url": "https://example.com/mouna_recipe1.jpg",
-           "name": "Spicy Masala Chicken",
-           "description": "This is a spicy and flavorful chicken dish that is perfect for a weeknight dinner. It's easy to make and can be served with rice or naan."
+            "_id": 5,
+            "description": "This is a spicy and flavorful chicken dish that is perfect for a weeknight dinner. It's easy to make and can be served with rice or naan."
         },
-        "recipe_2": {
-           "id": "5_recipe2",
-           "image_url": "https://example.com/mouna_recipe2.jpg",
-           "name": "Bengali Fish Curry",
-           "description": "This traditional Bengali fish curry is made with a spicy tomato-based sauce and is perfect served over rice."
-        },
-        "recipe_3": {
-           "id": "5_recipe3",
-           "image_url": "https://example.com/mouna_recipe3.jpg",
-           "name": "Shrimp Biryani",
-           "description": "This flavorful biryani is made with shrimp, rice, and a variety of spices. It's a great one-pot meal that's perfect for entertaining."
-        }
-     },
-     {
+        "ingredients": "The ingredients for Kacchi Biryani typically include Basmati rice, meat (usually lamb or beef), yogurt, onions, garlic, ginger, chili peppers, ghee (clarified butter), and a variety of spices such as cardamom, cinnamon, cloves, and bay leaves. The meat is marinated in yogurt and spices for several hours to tenderize it and infuse it with flavor"
+    },
+    {
         "id": 6,
         "chef_picture": "https://i.ibb.co/qsVpWfq/chef6.jpg",
         "chef_name": "Mr. Feroze Khan",
         "years_of_experience": 7,
         "number_of_recipes": 35,
+        "description": "Mr. Khan has been serving the town of Ringwood for more than 20 years, with his past eatery, where he was the accomplice and Chef for almost five years, before opening the Curry Garden.Curry Garden is best depicted as “A fun, vivacious Indian and Bangladeshi Restaurant, with customary qualities, serving amazing sustenance at sensible costs in a clean sprightly air, encompassed by ever supportive staff”. A significant part of the business comes through normal clients and suggestions. He is also included in Bangladeshi Top chefs list ",
         "likes": 350,
+        "image_url": "https://i.ibb.co/rkQnzym/images-1.jpg",
+        "name": "Mutto Korma",
         "recipe_1": {
-           "id": "6_recipe1",
-           "image_url": "https://example.com/mouna_recipe1.jpg",
-           "name": "Spicy Masala Chicken",
-           "description": "This is a spicy and flavorful chicken dish that is perfect for a weeknight dinner. It's easy to make and can be served with rice or naan."
+            "_id": 6,
+            "description": "This is a spicy and flavorful chicken dish that is perfect for a weeknight dinner. It's easy to make and can be served with rice or naan."
         },
-        "recipe_2": {
-           "id": "6_recipe2",
-           "image_url": "https://example.com/mouna_recipe2.jpg",
-           "name": "Bengali Fish Curry",
-           "description": "This traditional Bengali fish curry is made with a spicy tomato-based sauce and is perfect served over rice."
-        },
-        "recipe_3": {
-           "id": "6_recipe3",
-           "image_url": "https://example.com/mouna_recipe3.jpg",
-           "name": "Shrimp Biryani",
-           "description": "This flavorful biryani is made with shrimp, rice, and a variety of spices. It's a great one-pot meal that's perfect for entertaining."
-        }
-     }
-
-          
+        "ingredients": "The ingredients for Kacchi Biryani typically include Basmati rice, meat (usually lamb or beef), yogurt, onions, garlic, ginger, chili peppers, ghee (clarified butter), and a variety of spices such as cardamom, cinnamon, cloves, and bay leaves. The meat is marinated in yogurt and spices for several hours to tenderize it and infuse it with flavor"
+    }
 ]

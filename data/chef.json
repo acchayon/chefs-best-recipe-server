@@ -5,7 +5,8 @@
         "chef_name": "Ahmed Hossain",
         "years_of_experience": 10,
         "number_of_recipes": 50,
-        "likes": 500
+        "likes": 500,
+        "description": "Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "chef_name": "Haji Fakruddin",
         "years_of_experience": 8,
         "number_of_recipes": 40,
-        "likes": 400
+        "likes": 400,
+        "description": "Since 1966, Haji Fakruddin had challenged outrageous financial hardships since his move to Bangladesh. He amid a stretch to squeeze out a work, he was acquainted with Muslim Miah, a culinary specialist to the Nawabs of India.From Muslim Miah, Fakruddin figured out how to cook. It was short colleague which uncovered to Fakruddin his shrouded, characteristic style and outrageous enthusiasm for cooking. While working in the Viqarun Nisa, he earned a name for his pleasantness, mild-mannered and tender nature. Now he is among the top 10 chefs in Bangladesh."
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "chef_name": "Asad Latif",
         "years_of_experience": 15,
         "number_of_recipes": 80,
-        "likes": 800
+        "likes": 800,
+        "description": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies."
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "chef_name": "Kiran Jethwa",
         "years_of_experience": 5,
         "number_of_recipes": 30,
-        "likes": 300
+        "likes": 300,
+        "description": "Kiran Jethwa also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. Kiran Jethwa, is a worldwide “gastronaut” and has crossed the world looking for gutsy and cooking styles and societies.From racing with falcons in Mongolia to Remote Ocean jumping for fish in Mozambique, Jethwa has encountered the perils and excites that individuals day by day professionally for culinary field."
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "chef_name": "Manik Miah",
         "years_of_experience": 12,
         "number_of_recipes": 60,
-        "likes": 600
+        "likes": 600,
+        "description": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh."
     },
     {
         "id": 6,
@@ -45,6 +50,7 @@
         "chef_name": "Mr. Feroze Khan",
         "years_of_experience": 7,
         "number_of_recipes": 35,
-        "likes": 350
+        "likes": 350,
+        "description": "Mr. Khan has been serving the town of Ringwood for more than 20 years, with his past eatery, where he was the accomplice and Chef for almost five years, before opening the Curry Garden.Curry Garden is best depicted as “A fun, vivacious Indian and Bangladeshi Restaurant, with customary qualities, serving amazing sustenance at sensible costs in a clean sprightly air, encompassed by ever supportive staff”. A significant part of the business comes through normal clients and suggestions. He is also included in Bangladeshi Top chefs list "
     }
 ]
